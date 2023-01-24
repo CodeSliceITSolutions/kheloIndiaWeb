@@ -81,6 +81,15 @@
             <x-responsive-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
                 {{ __('Dashboard') }}
             </x-responsive-nav-link>
+            <x-responsive-nav-link :href="route('admin-draw-lucky3')" :active="request()->routeIs('admin-draw-lucky3')">
+                {{ __('Lucky 3') }}
+            </x-responsive-nav-link>
+            <x-responsive-nav-link :href="route('admin-draw-lucky3-plus')" :active="request()->routeIs('admin-draw-lucky3-plus')">
+                {{ __('Lucky 3 Plus') }}
+            </x-responsive-nav-link>
+            <x-responsive-nav-link :href="route('admin-draw-max3-plus')" :active="request()->routeIs('admin-draw-max3-plus')">
+                {{ __('Max 3 Plus') }}
+            </x-responsive-nav-link>
         </div>
 
         <!-- Responsive Settings Options -->
