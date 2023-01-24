@@ -1,0 +1,648 @@
+body {
+    background-color:#333333;
+    margin:0 0 0 0;
+	font-family: Tahoma, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: normal;	
+}
+table, td {
+    font-family: Tahoma, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+.userlink {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:link {
+	text-decoration: none;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+a:visited {
+	text-decoration: none;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: underline;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+a:active {
+	text-decoration: none;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.footer {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #AAAAAA;
+	text-decoration: none;
+}
+.link {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #ffffff;
+	text-decoration: none;
+}
+.bold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.bold1 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: 0000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+.text {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.texty {
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFD202;
+	text-decoration: none;
+	font-weight: bold;
+}
+.textdy {
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFFF00;
+	text-decoration: none;
+	font-weight: bold;
+}
+.text1 {
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.textCopy {
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.boldCopy {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #A17FDE;
+	text-decoration: none;
+	font-weight: bold;
+}
+.textCopy1 {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #A08AFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.textg {
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #CCFF00;
+	text-decoration: none;
+	font-weight: normal;
+}
+.textb {
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.link1 {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	color: #ffffff;
+	text-decoration: none;
+}
+.bold-fast-lotto {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #D7DE04;
+	text-decoration: none;
+	font-weight: bold;
+}
+.text-fast-lotto {
+
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #D7DE04;
+	text-decoration: none;
+	font-weight: normal;
+}
+.boldw {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.bold-st {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #C1FE00;
+	text-decoration: none;
+	font-weight: bold;
+}
+.bold-saturday {
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #00CA00;
+	text-decoration: none;
+	font-weight: bold;
+}
+.text-saturday {
+
+
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #90FF00;
+	text-decoration: none;
+	font-weight: normal;
+}
+.text-joker {
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #00FFF6;
+	text-decoration: none;
+	font-weight: bold;
+}
+.bold-joker {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #DC84FE;
+	text-decoration: none;
+	font-weight: bold;
+}
+.text-joker1 {
+
+
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF00FC;
+	text-decoration: none;
+	font-weight: normal;
+}
+.text-tu {
+
+
+
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #00EBFD;
+	text-decoration: none;
+	font-weight: normal;
+}
+.bold-tu {
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #01A1FF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.bold-thur {
+
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #02CAB2;
+	text-decoration: none;
+	font-weight: bold;
+}
+.text-thur {
+
+
+
+
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #00FFE0;
+	text-decoration: none;
+	font-weight: normal;
+}
+.bold-joker5 {
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #EB7F01;
+	text-decoration: none;
+	font-weight: bold;
+}
+.text-joker5 {
+
+
+
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFBB02;
+	text-decoration: none;
+	font-weight: normal;
+}
+.bold-fri {
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF3632;
+	text-decoration: none;
+	font-weight: bold;
+}
+.text-fri {
+
+
+
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF2A01;
+	text-decoration: none;
+	font-weight: normal;
+}
+.textCopy2 {
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: normal;
+}
+.textb-r {
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+.Header {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #610338;
+	text-decoration: none;
+	font-weight: bold;
+}
+.HEADER1 {
+
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #5B266C;
+	text-decoration: none;
+	font-weight: bold;
+}
+.bold-about {
+
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF42B0;
+	text-decoration: none;
+	font-weight: bold;
+}
+.bold-index {
+
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.bold-index1 {
+
+
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.bold-index1Copy {
+
+
+
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: normal;
+}
+.bold-indexw {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.bold-indexbl {
+
+
+
+
+
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #8BC0FF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.bold-indexred {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #CD003B;
+	text-decoration: none;
+	font-weight:bold;
+}
+.userlink1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.bold-re-body {
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #D7DE04;
+	text-decoration: none;
+	font-weight: bold;
+}
+.bold-index11 {
+
+
+
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.userlink2 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FF0000;
+	text-decoration: none;
+}
+.bold-re-bodyCopy {
+
+
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+
+.MarqueeText
+    { font-family: Tahoma; 
+    font-size: 13px; 
+    font-weight: bold; 
+    color: #FFFFFF; 
+    text-decoration: none; }
+    
+    
+.textfield { 
+    font-family: Tahoma; 
+    font-size: 12px; 
+    color: #000000; 
+    border: 1px solid a6a6a6; 
+}
+.formField {
+   font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.txtError {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.LoginPanelLink:link{ font-family: Tahoma, Arial, Helvetica, sans-serif;font-size: 11px; color: #FFFFFF;	text-decoration: none; font-weight: bold;}
+.LoginPanelLink:visited{ font-family: Tahoma, Arial, Helvetica, sans-serif;font-size: 11px; color: #FFFFFF;	text-decoration: none; font-weight: bold;}
+.LoginPanelLink:active{ font-family: Tahoma, Arial, Helvetica, sans-serif;font-size: 11px; color: #FFFFFF;	text-decoration: none; font-weight: bold;}
+.LoginPanelLink:hover{ font-family: Tahoma, Arial, Helvetica, sans-serif;font-size: 11px; color: #FFFFFF;	text-decoration: underline; font-weight: bold;}
+
+.jack_numbers {
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.moreResults {
+    background-color:#270C2B;
+     font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+
+
+.resultbox { 
+    font-family: Tahoma; 
+    font-size: 14px; 
+    font-weight: bold; 
+    color: #000000; 
+    text-decoration: none; 
+    background-color: #d9d9d9; 
+    border: 1px solid a6a6a6; 
+    width: 24px; 
+    height: 20px; 
+    text-align: center; 
+    vertical-align: middle; 
+}
+
+.bold-joker:link { font-family: Tahoma, Helvetica, sans-serif;	font-size: 12px;	color: #DC84FE;	text-decoration: none;	font-weight: bold; }
+.bold-joker:visited { font-family: Tahoma, Helvetica, sans-serif;	font-size: 12px;	color: #DC84FE;	text-decoration: none;	font-weight: bold; }
+.bold-joker:hover { font-family: Tahoma, Helvetica, sans-serif;	font-size: 12px;	color: #FFFFFF;	text-decoration: none;	font-weight: bold; }
+
+
+.bet-header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #32113A;
+	text-decoration: none;
+	font-weight: bold;
+}
+.bet-header1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #20002A;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.BODYbold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+a.link_blue { font-family: Tahoma; font-size: 11px; color: #003582; font-weight: bold; text-decoration: underline; }
+a.link_blue:visited { font-family: Tahoma; font-size: 11px; color: #003582; font-weight: bold; text-decoration: underline; }
+a.link_blue:hover { font-family: Tahoma; font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; }
+
+.FormTextBox { font-family: Tahoma; font-size: 12px; color: #000000; border: 1px #0052A4 solid; height:20px; }
+.FormMultiLineTextBox { font-family: Tahoma; font-size: 12px; color: #000000; border: 1px #0052A4 solid;}
+
+
+.copyText {
+    font-family: Tahoma; 
+    font-size: 10pt; 
+    color: #000000; 
+    text-decoration: none;
+    text-align:justify;
+}

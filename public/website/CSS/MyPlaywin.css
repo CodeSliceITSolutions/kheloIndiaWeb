@@ -1,0 +1,195 @@
+.spacer {  font-family: Arial, Helvetica, sans-serif; font-size: 1px}
+
+a.pagenos:link { text-decoration: underline; }
+a.pagenos:visited { text-decoration: underline; }
+a.pagenos:hover { text-decoration: none; }
+
+a.pagenos_Active { font-size: 22px; color:White; font-weight:bold;  text-decoration: none; }
+.displaynone{display:none;}
+
+a.link_wht { font-family: Tahoma; font-size: 11px; color: #ffffff; font-weight: normal; text-decoration: none; }
+a.link_wht:visited { font-family: Tahoma; font-size: 11px; color: #ffffff; font-weight: normal; text-decoration: none; }
+a.link_wht:hover { font-family: Tahoma; font-size: 11px; color: #000000; font-weight: normal; text-decoration: underline; }
+
+a.link_red { font-family: Tahoma; font-size: 11px; color: #cf1126; font-weight: bold; text-decoration: none; }
+a.link_red:visited { font-family: Tahoma; font-size: 11px; color: #cf1126; font-weight: bold; text-decoration: none; }
+a.link_red:hover { font-family: Tahoma; font-size: 11px; color: #000000; font-weight: bold; text-decoration: underline; }
+
+a.link_redul { font-family: Tahoma; font-size: 11px; color: #cf1126; font-weight: bold; text-decoration: underline; }
+a.link_redul:visited { font-family: Tahoma; font-size: 11px; color: #cf1126; font-weight: bold; text-decoration: underline; }
+a.link_redul:hover { font-family: Tahoma; font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; }
+
+a.link_redhd { font-family: Tahoma; font-size: 15px; color: #b70e00; font-weight: bold; text-decoration: underline; }
+a.link_redhd:visited { font-family: Tahoma; font-size: 15px; color: #b70e00; font-weight: bold; text-decoration: underline; }
+a.link_redhd:hover { font-family: Tahoma; font-size: 15px; color: #003582; font-weight: bold; text-decoration: none; }
+
+a.link_blue { font-family: Tahoma; font-size: 11px; color: #003582; font-weight: bold; text-decoration: underline; }
+a.link_blue:visited { font-family: Tahoma; font-size: 11px; color: #003582; font-weight: bold; text-decoration: underline; }
+a.link_blue:hover { font-family: Tahoma; font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; }
+
+a.link_bluehd { font-family: Tahoma; font-size: 15px; color: #003582; font-weight: bold; text-decoration: underline; }
+a.link_bluehd:visited { font-family: Tahoma; font-size: 15px; color: #003582; font-weight: bold; text-decoration: underline; }
+a.link_bluehd:hover { font-family: Tahoma; font-size: 15px; color: #000000; font-weight: bold; text-decoration: none; }
+
+a.link_gray { font-family: Tahoma; font-size: 11px; color: #666666; font-weight: bold; text-decoration: underline; }
+a.link_gray:visited { font-family: Tahoma; font-size: 11px; color: #666666; font-weight: bold; text-decoration: underline; }
+a.link_gray:hover { font-family: Tahoma; font-size: 11px; color: #003582; font-weight: bold; text-decoration: none; }
+
+.bg_wht { background-color:#ffffff; }
+.bg_lightblue_1 { background-color:#c5e9ff; }
+.bg_lightblue_2 { background-color:#41b8ff; }
+.bg_lightblue_3 { background-color:#b8deff; }
+.bg_gray_1{background-color:#d9d9d9;}
+.bg_gray_2{background-color:#f0f0f0;}
+.bg_gray_3{background-color:#a7a7a7;}
+
+
+.bg_darkpurple_2 { background-color:#320121; }
+
+
+
+.text_blk { font-family: Tahoma; font-size: 11px; text-align:justify; font-weight: normal; COLOR: #000000; text-decoration: none;  }
+.retext_center {	font-family: Tahoma; font-size: 12px; font-weight: normal; color: #000000; text-decoration: none;}
+.retext_bold {	font-family: Tahoma; font-size: 12px; font-weight: bold; color: #000000; text-decoration: none;}
+.text_blkbold { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #000000; text-decoration: none; }
+.text_nextdraw { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #FFFFFF; text-decoration: none; }
+.ticker_text { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #000000; text-decoration: none; }
+.text_blk_small { font-family: Tahoma; font-size: 10px; text-align:justify; font-weight: normal; COLOR: #000000; text-decoration: none;  }
+.text_red { font-family: Tahoma; font-size: 11px; text-align:justify; font-weight: normal; COLOR: #cf1126; text-decoration: none; }
+.text_redbold { font-family: Tahoma; font-size: 11px; font-weight: bold; COLOR: #cf1126; text-decoration: none; text-align:justify; }
+
+.text_wht { font-family: Tahoma; font-size: 11px; text-align:justify; font-weight: normal; color: #ffffff; text-decoration: none; }
+.text_footer { font-family: Tahoma; font-size: 11px;  font-weight: normal; color: #ffffff; text-decoration: none; }
+.text_gray { font-family: Tahoma; font-size: 11px; text-align:justify; font-weight: normal; COLOR: #000000; text-decoration: none; }
+.text_graybold { font-family: Tahoma; font-size: 11px; text-align:justify; font-weight: bold; COLOR: #626262; text-decoration: none; }
+.text_blue { font-family: Tahoma; font-size: 11px; text-align:justify; font-weight: normal; COLOR: #003582; text-decoration: none; }
+.text_bluebold { font-family: Tahoma; font-size: 11px; font-weight: bold; COLOR: #003582; text-decoration: none; text-align:center}
+
+.hd_blk { font-family: Tahoma; font-size: 15px; font-weight: bold; color: #000000; text-decoration: none; }
+.hd_blue { font-family: Tahoma; font-size: 15px; font-weight: bold; color: #003582; text-decoration: none; }
+.hd_red { font-family: Tahoma; font-size: 15px; font-weight: bold; color: #cf1126; text-decoration: none; }
+.hd_red_Playpanel { font-family: Tahoma; font-size: 20px; font-weight: bold; color: #cf1126; text-decoration: none; }
+
+.hd_wht_big { font-family: Tahoma; font-size: 30px; font-weight: bold; color: #ffffff; text-decoration: none; }
+
+.tab { }
+.tab_selected { font-weight: bold; color: #ffffff; vertical-align: middle; }
+.tab_hd { background-color:#a7a7a7; font-family: Tahoma; font-size: 11px; font-weight: bold; color: #ffffff; text-decoration: none; height: 20px; text-align: center; vertical-align: middle; }
+.tab_content { background-color:#ffffff; font-family: Tahoma; font-size: 11px; font-weight: normal; color: #000000; text-decoration: none; height: 15px; text-align: center; vertical-align: middle; }
+
+.resultbox { font-family: Tahoma; font-size: 14px; font-weight: bold; color: #000000; text-decoration: none; background-color: #d9d9d9; border: 1px solid a6a6a6; width: 24px; height: 20px; text-align: center; vertical-align: middle; }
+
+.textbox { font-family: Tahoma; font-size: 11px; color: #000000; border: 1px #AFBFD0 solid; background color: #F7F7F3;}
+
+
+.bg_po{ background-color:#315D8C;}
+.bg_po_sat_sl{ background-color:#176318;}
+.bg_po_thur_sl{ background-color:#25786E;}
+.bg_po_friday_el{ background-color:#A53738;}
+.bg_po_keno{ background-color:#544276;}
+.bg_po_fl{ background-color:#A2A616;}
+.bg_po_joker5{ background-color:#8E4F00;}
+.bg_po_joker{ background-color:#A3477A;}
+
+.bg_po1{font-size:1pt;background-image:url(../images/pobg.gif)}
+.pottl{font-family: Tahoma; font-size: 16px; font-weight: bold; color: #000000; text-decoration: none;}
+.po_rdtxt{font-family: Tahoma; font-size: 11px; color: #e10829; text-decoration: none;}
+
+.po_box {height: 20px; width: 35px; font-family: tahoma;  font-size: 11px; font-weight: normal; color: #6a4100; background-color: #ffffff; border: 1px solid #006498; }
+.cj{font-family: Tahoma; font-size: 11px; font-weight: bold; COLOR: #051c4f; text-decoration: none; }
+.amt {	font-family: Tahoma; font-size: 22px; font-weight: bold; color: #cf1126; text-decoration: none;}
+.draw {font-family: Tahoma; font-size: 11px; font-weight: normal; COLOR: #051c4f; text-decoration: none; }
+
+.topselect{font-family: Tahoma; font-size: 11px;COLOR: #ffffff; background-color: #0048af; }
+.wel_txt{font-family: Tahoma; font-size: 11px; font-weight: bold; COLOR: #0052a6; text-decoration: none;}
+.txt_gry{font-family: Tahoma; font-size: 11px;text-align:justify; font-weight: normal; COLOR: #000000; text-decoration: none; line-height:16px;}
+.txt_gryb{font-family: Tahoma; font-size: 11px; font-weight: bold; COLOR: #000000; text-decoration: none;}
+.retxtfield{    font-family: Tahoma;     font-size: 11px;     COLOR: #626262; 	height: 16px;	width: 160px; 	vertical-align:middle;	background-color: #ffffff;	border: thin solid #006498;	border-width: 1px;}
+.retxtadd{	height: 16px;	width: 200px; 	vertical-align:middle;	background-color: #ffffff;	border: thin solid #006498;	border-width: 1px;}
+
+.star{font-family: Tahoma; font-size: 11px; font-weight: bold; COLOR: #ed1c24; text-decoration: none;	}
+.retext_blkbold {	font-family: Tahoma; font-size: 12px; font-weight: bold; color: #000000; text-decoration: none;}
+a.link_magryh {	font-family: Tahoma; font-size: 11px; color: #626262; font-weight: bold; text-decoration: none;}
+a.link_magryh:visited {	font-family: Tahoma; font-size: 11px; color: #626262; font-weight: bold; text-decoration: none;}
+a.link_magryh:hover {font-family: Tahoma; font-size: 11px; color: #626262; font-weight: bold; text-decoration: underline;}
+
+.resultbox {font-family: Tahoma; font-size: 14px; font-weight: bold; color: #000000; text-decoration: none; background-color: #d9d9d9;	border: 1px solid a6a6a6;	width: 24px;	height: 20px;	text-align: center;	vertical-align: middle;}
+.winblue_draw{font-family: Tahoma; font-size: 11px; font-weight: normal; COLOR: #0052a6; text-decoration: none;}
+
+a.num_win {font-family: Tahoma; font-size: 12px;  color: #000000; font-weight: bold; text-decoration: underline;}
+a.num_win:visited {font-family: Tahoma; font-size: 12px;  color: #000000; font-weight: bold; text-decoration: underline;}
+a.num_win:hover {font-family: Tahoma; font-size: 12px;  color: #e32000; font-weight: bold; text-decoration: none;}
+
+.high_win {font-family: Tahoma; font-size: 12px;  color: #e32000; font-weight: bold; text-decoration: underline;}
+
+.fdbk_box {height: 50px; width: 250px; font-family: tahoma;  font-size: 11px;  font-weight: normal; color: #6a4100; background-color: #ffffff; border: 1px solid #006498; }
+.fdbk_txtfld {height: 14px; width: 250; font-family: tahoma; font-size: 11px; font-weight: normal; color: #6a4100; background-color: #ffffff; border: 1px solid #006498; }
+a.link_faq{	font-family: Tahoma; font-size: 11px; color: #003582; font-weight: bold; text-decoration: underline;}
+a.link_faq:visited {font-family: Tahoma; font-size: 11px; color: #003582; font-weight: bold; text-decoration: underline;}
+a.link_faq:hover {font-family: Tahoma; font-size: 11px; color: #003582; font-weight: bold; text-decoration: underline;}
+
+.text_blk2 {font-family: Tahoma; font-size: 11px; font-weight: normal; COLOR: #000000; text-decoration: none; }
+a.link_pop{	font-family: Tahoma; font-size: 11px; color: #0052a6; font-weight: bold; text-decoration: none;}
+a.link_pop:visited {	font-family: Tahoma; font-size: 11px; color: #0052a6; font-weight: bold; text-decoration: none;}
+a.link_pop:hover {	font-family: Tahoma; font-size: 11px; color: #0052a6; font-weight: bold; text-decoration: underline;}
+
+
+a.link_red1 { font-family: Tahoma; font-size: 11px; color: #cf1126; font-weight: normal; text-decoration: none; }
+a.link_red1:visited { font-family: Tahoma; font-size: 11px; color: #cf1126; font-weight: normal; text-decoration: none; }
+a.link_red1:hover { font-family: Tahoma; font-size: 11px; color: #000000; font-weight: normal; text-decoration: underline; }
+
+.paneltab { background-color:#f0f0f0; height: 30px; text-align: center; vertical-align: middle; font-size:10px; }
+.paneltab_selected { background-color:#a7a7a7; font-family: Tahoma; font-size: 10px; font-weight: bold; color: #ffffff; text-decoration: none; height: 30px; text-align: center; vertical-align: middle; }
+
+
+a.panellink_gray { font-family: Tahoma; font-size: 10px; color: #666666; font-weight: bold; text-decoration: underline; }
+a.panellink_gray:visited { font-family: Tahoma; font-size: 10px; color: #666666; font-weight: bold; text-decoration: underline; }
+a.panellink_gray:hover { font-family: Tahoma; font-size: 10px; color: #666666; font-weight: bold; text-decoration: none; }
+
+a.panellink_white { font-family: Tahoma; font-size: 10px; color: #ffffff; font-weight: bold; text-decoration: underline; }
+a.panellink_white:visited { font-family: Tahoma; font-size: 10px; color: #ffffff; font-weight: bold; text-decoration: underline; }
+a.panellink_white:hover { font-family: Tahoma; font-size: 10px; color: #ffffff; font-weight: bold; text-decoration: none; }
+
+a.link_blkul { font-family: Tahoma; font-size: 11px; color: #000000; font-weight: bold; text-decoration: underline; }
+a.link_blkul:visited { font-family: Tahoma; font-size: 11px; color: #000000; font-weight: bold; text-decoration: underline; }
+a.link_blkul:hover { font-family: Tahoma; font-size: 11px; color: #003582; font-weight: bold; text-decoration: none; }
+
+a.text_more { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #000000; text-decoration: none; }
+a.text_more:visited { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #000000; text-decoration: none; }
+a.text_more:hover { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #cf1126; text-decoration: none; }
+
+
+.retext_winners {	font-family: Tahoma; font-size: 12px; font-weight: bold; color: #000000; text-decoration: none;}
+.retext_winners:visited {	font-family: Tahoma; font-size: 12px; font-weight: bold; color: #000000; text-decoration: none;}
+.retext_winners:hover {	font-family: Tahoma; font-size: 12px; font-weight: bold; color: #cf1126; text-decoration: none;}
+
+.txt_blue { font-family: Tahoma; font-size: 13px; font-weight: bold; color: #003582; text-decoration: none;}
+.sms_select { font-family: Tahoma; font-size: 10px; font-weight: normal; text-decoration: none; background-color: #FFFFFF; text-align: center; height: 16px; width: 120px;  }
+a.link_whtul { font-family: Tahoma; font-size: 11px; color: #ffffff; font-weight: bold; text-decoration: underline; }
+a.link_whtul:visited { font-family: Tahoma; font-size: 11px; color: #ffffff; font-weight: bold; text-decoration: underline; }
+a.link_whtul:hover { font-family: Tahoma; font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; }
+
+.hd_blk1 { font-family: Tahoma; font-size: 12px; font-weight: bold; color: #000000; text-decoration: none; }
+.hd_blk1:visited { font-family: Tahoma; font-size: 12px; font-weight: bold; color: #000000; text-decoration: none; }
+.hd_blk1:hover { font-family: Tahoma; font-size: 12px; font-weight: bold; color: #000000; text-decoration: underline; }
+.jack_numbers { font-family: Tahoma; font-size: 15px; font-weight: bold; color: #003582; text-decoration: none; }
+
+
+.hd_wht { font-family: Tahoma; font-size: 15px; font-weight: bold; color: #ffffff; text-decoration: none; }
+.hd_wht:visited { font-family: Tahoma; font-size: 15px; font-weight: bold; color: #ffffff; text-decoration: none; }
+.hd_wht:hover { font-family: Tahoma; font-size: 15px; font-weight: bold; color: #003582; text-decoration: underline; }
+
+
+a.link_hd_blue {	font-family: Tahoma; font-size: 15px; color: #003582; font-weight: bold; text-decoration: none;}
+a.link_hd_blue:hover {	font-family: Tahoma; font-size: 15px; color: #003582; font-weight: bold; text-decoration: underline;}
+a.link_hd_blue:visited{	font-family: Tahoma; font-size: 15px; color: #003582; font-weight: bold; text-decoration: none;}
+
+.pw_select { font-family: Tahoma; font-size: 11px; font-weight: normal; text-decoration: none; background-color: #FFFFFF; text-align: center; height: 16px; }
+
+.textboxM { font-family:Verdana; font-size: 13px; color: Black; border: 1px #AFBFD0 solid; background-color: white; font-weight:bold;}
+
+.text_unauthorized { font-family: Tahoma; font-size: 15px; font-weight: bold; color: #cf1126; text-decoration: none; }
+.text_unauthorized:link { font-family: Tahoma; font-size: 15px; font-weight: bold; color: #cf1126; text-decoration: underline; }
+.text_unauthorized:visited { font-family: Tahoma; font-size: 15px; font-weight: bold; color: #cf1126; text-decoration: none; }
+.text_unauthorized:hover { font-family: Tahoma; font-size: 15px; font-weight: bold; color: #003582; text-decoration: underline; }
+.hd_wht_plain { font-family: Tahoma; font-size: 15px; font-weight: bold; color: #ffffff; text-decoration: none; }

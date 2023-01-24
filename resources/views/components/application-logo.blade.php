@@ -1,0 +1,1 @@
+<img src="{{ asset('website/images/playwin.gif') }}" class="h-10">
