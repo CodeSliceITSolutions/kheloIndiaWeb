@@ -14,7 +14,7 @@ class CreateLuckyThreePlusesTable extends Migration
     public function up()
     {
         Schema::create('lucky_three_pluses', function (Blueprint $table) {
-            $table->bigIncrements('id');
+            $table->id();
             $table->string('draw_id', 15);
             $table->string('draw_title', 60);
             $table->date('draw_date');
