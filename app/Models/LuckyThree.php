@@ -14,7 +14,7 @@ class LuckyThree extends Model
      *
      * @var array
      */
-    protected $fillable = ['draw_id','draw_title','draw_date','draw_time','draw_result','created_by','updated_by'];
+    protected $fillable = ['id','draw_id','draw_title','draw_date','draw_time','draw_result','created_by','updated_by'];
 
     public static function addLuckyThree($data) {
         self::Create($data);
