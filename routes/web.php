@@ -13,7 +13,6 @@ use App\Http\Controllers\LuckyDrawController;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
 Route::get('/', [LuckyDrawController::class, 'index']);
 
 Route::get('draw-lucky3', [LuckyDrawController::class, 'viewDrawLucky3'])->name('draw-lucky3');
