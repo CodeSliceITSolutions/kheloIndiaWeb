@@ -1,1 +1,1 @@
-<img src="{{ asset('website/images/playwin.gif') }}" class="h-10">
+<img src="{{ asset('website/images/playwin.png') }}" class="h-10">

@@ -66,7 +66,7 @@ document.getElementById ('prebackform').className ='displayyes';
                                                     </td>
                                                     <td width="80">
                                                         <a href="{{ url('') }}">
-                                                            <img border="0" height="80" src="{{ asset('website/images/playwin.gif') }}" width="80" /></a></td>
+                                                            <img border="0" height="80" src="{{ asset('website/images/playwin.png') }}" width="80" /></a></td>
                                                     <td valign="bottom" width="378">
                                                         <table border="0" cellpadding="0" cellspacing="0" width="374">
                                                             <tr>
@@ -220,7 +220,7 @@ document.getElementById ('prebackform').className ='displayyes';
             </font></span></strong></td>
             <td rowspan="2" align="center" valign="top" height="49" bgcolor="#AA819F" style="width: 295px">
                 &nbsp; &nbsp; &nbsp; 
-                <img src="{{ asset('website/images/UCKY3gm.gif') }}"></td>
+                <img src="{{ asset('website/images/3STAR-07.png') }}" width="137" height="56"></td>
           </tr>
           <tr><td class='spacer' height="1" bgcolor="#AA819F" width="556"></td></tr>          
           </table>

@@ -39,7 +39,7 @@
                               </table>
                                     
                               </td>
-                            <td width="80"><a href="{{ url('/') }}"><img src="{{ asset('website/images/playwin.gif') }}" width="80" height="80" border=0></a></td>
+                            <td width="80"><a href="{{ url('/') }}"><img src="{{ asset('website/images/playwin.png') }}" width="80" height="80" border=0></a></td>
                             <td width="378" valign="bottom">
                                 <table width="378" border="0" cellspacing="0" cellpadding="0">
                                     <tr> 
@@ -136,7 +136,7 @@
                                                       <tr>
                                                         <td align="center" height="76" width="10" valign="middle">
                                                         </td>
-                                                        <td align="center" height="76" width="257" colspan="6" valign="middle"><a href="javascript:void(0)"><img src="{{ asset('website/images/king4logo.JPG') }}" width="146" height="57">
+                                                        <td align="center" height="76" width="257" colspan="6" valign="middle"><a href="javascript:void(0)"><img src="{{ asset('website/images/3STAR-05.png') }}" width="146" height="57">
                                                           </a>
                                                         </td>
                                                         <td align="center" height="76" width="9" valign="middle">
@@ -239,6 +239,7 @@
       <tr align="left" valign="top">
         <td width="16" style="height: 28px">    
         </td>
+        <td class = "bold-index" width="244" colspan="8" valign="middle" style="height: 28px">UP Daily</td>
         <td class = "bold-index" width="244" colspan="8" valign="middle" style="height: 28px">    
 @if (isset($LuckyThreeLastResult))
     {{ date('d M Y', strtotime($LuckyThreeLastResult->draw_date)) }} {{ date('H:i:s', strtotime($LuckyThreeLastResult->draw_time)) }}
@@ -261,7 +262,7 @@
       <tr>
         <td height="63" width="16">    
         </td>
-        <td height="63" width="123" valign="top" colspan="7"><a href="{{ route('draw-lucky3') }}" target="_blank"><img border="0" src="{{ asset('website/images/UCKY3gm.gif') }}" width="137" height="56">    
+        <td height="63" width="123" valign="top" colspan="7"><a href="{{ route('draw-lucky3') }}" target="_blank"><img border="0" src="{{ asset('website/images/3STAR-07.png') }}" width="137" height="56">    
           </a>    
         </td>
         <td height="63" valign="top" style="width: 205px">    
@@ -294,6 +295,7 @@
         <td height="1" width="17" align="center">    
          <b><span style="font-size: 8.5pt; font-family: Tahoma"><font color="#FFFFFF">&nbsp;</font></span></b>    
         </td>
+        <td class = "bold-index" width="244" colspan="8" valign="middle" style="height: 28px">GA Daily</td>
         <td class = "bold-index" height="28" width="233" colspan="8" valign="middle">
 
           @if (isset($LuckyThreePlusLastResult))
@@ -322,7 +324,7 @@
       <tr>
         <td height="63" width="16">    
         </td>
-        <td height="63" width="123" valign="top" colspan="7"><a href="{{ route('draw-lucky3-plus') }}" target="_blank"><img border="0" src="{{ asset('website/images/gilogolucky3p.gif') }}" width="137" height="56">
+        <td height="63" width="123" valign="top" colspan="7"><a href="{{ route('draw-lucky3-plus') }}" target="_blank"><img border="0" src="{{ asset('website/images/3STAR-03.png') }}" width="137" height="56">
           </a>
         </td>
         <td height="63" valign="top" style="width: 205px">    
@@ -354,6 +356,7 @@
       <tr>
         <td height="28" width="16">    
         </td>
+        <td class = "bold-index" width="244" colspan="8" valign="middle" style="height: 28px">Nation Daily</td>
         <td class = "bold-index" height="28" width="244" colspan="8" valign="middle">    
 
           @if (isset($MaxThreePlusLastResult))
@@ -378,7 +381,7 @@
       <tr>
         <td height="63" width="16">    
         </td>
-        <td height="63" width="123" valign="top" colspan="7"><a href="{{ route('draw-max3-plus') }}" target="_blank"><img border="0" src="{{ asset('website/images/gilogomax3p.gif') }}" width="137" height="56">    
+        <td height="63" width="123" valign="top" colspan="7"><a href="{{ route('draw-max3-plus') }}" target="_blank"><img border="0" src="{{ asset('website/images/3STAR-06.png') }}" width="137" height="56">    
           </a>    
         </td>
         <td height="63" valign="top" style="width: 205px">    
@@ -408,10 +411,6 @@
         </td>
       </tr>
       <tr>
-     <td height="15" width="555" align="center" colspan="10">    
-5:18:00 PM5:44:00 PM
-        
-    </td>
    </tr>
   </table>
    </td>
@@ -435,7 +434,7 @@
       <tr>
         <td height="63" width="13">    
         </td>
-        <td height="63" width="154" valign="top" colspan="9"><a href="javascript:void(0)"><img border="0" src="{{ asset('website/images/gilogo_TRIPLE%20TICKET.gif') }}">
+        <td height="63" width="154" valign="top" colspan="9"><a href="javascript:void(0)"><img border="0" src="{{ asset('website/images/3STAR-01.png') }}" width="137" height="56">
           </a>
         </td>
         <td height="63" valign="top" width="78">    
@@ -505,7 +504,7 @@
       <tr>
         <td height="63" width="13">    
         </td>
-        <td height="63" width="155" valign="top" colspan="9"><a href="javascript:void(0)"><img border="0" src="{{ asset('website/images/gilogo_TRIPLEplus.GIF') }}">
+        <td height="63" width="155" valign="top" colspan="9"><a href="javascript:void(0)"><img border="0" src="{{ asset('website/images/3STAR-04.png') }}" width="137" height="56">
           </a>
         </td>
         <td height="63" valign="top" width="77">    
@@ -657,7 +656,7 @@
                     <tr> 
                       <td height="20" valign="middle" background="{{ asset('website/images/footer-bg.jpg') }}"> 
 					<div align="center">
-							<span class="footer">© {{ date('Y') }} Pan India Network Infravest P.Ltd. | Powered By : myplaywin4.com, myplaywin4.net </span>
+							<span class="footer">© {{ date('Y') }} Pan India Network Infravest P.Ltd.</span>
 						</div>
 
 </td>
