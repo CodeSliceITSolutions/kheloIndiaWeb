@@ -1,1 +1,1 @@
-<img src="{{ asset('website/images/playwin.png') }}" class="h-10">
+<img src="{{ asset('website/images/playwin.png?v=20230201012555') }}" class="h-10">

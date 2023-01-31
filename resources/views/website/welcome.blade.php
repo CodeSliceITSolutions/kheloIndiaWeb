@@ -3,8 +3,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <title>&nbsp;--::&nbsp;&nbsp;Welcome to Playwin&nbsp;&nbsp;--&nbsp;&nbsp;Khelo India Khelo&nbsp;&nbsp;::--&nbsp;&nbsp;&nbsp;&nbsp;</title>
-    <meta name="description" content="Indian Online Lottery Result Services. www.myplaywin4.com Games Lucky3, Lucky3+, Max3+ only in 4 States of India. Maharashtra, Nagaland, Karnataka, Sikkim." />
-    <meta name="keywords" content="India, Lottery Games, Lucky3, Lucky3+, Lucky3plus, Max3plus, Max3+, myplaywin, myplaywin4, playwin, indian lotto, Max3+, Max3plus" />
+    <meta name="description" content="Indian Online Lottery Result Services. www.superwin3.com Games Lucky3, Lucky3+, Max3+ only in 4 States of India. Maharashtra, Nagaland, Karnataka, Sikkim." />
+    <meta name="keywords" content="India, Lottery Games, Lucky3, Lucky3+, Lucky3plus, Max3plus, Max3+, myplaywin, superwin3, playwin, indian lotto, Max3+, Max3plus" />
     <link rel="shortcut icon" href="{{ asset('website/images/favicon.ico') }}" >
     <link href="{{ asset('website/CSS/MyPlaywin.css') }}" rel="stylesheet" type="text/css" />
     <link href="{{ asset('website/CSS/playwin.css') }}" rel="stylesheet" type="text/css" />
@@ -20,12 +20,12 @@
 
 <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr> 
-    <td valign="top" background="{{ asset('website/images/bg.gif') }}">
+    <td valign="top" background="{{ asset('website/images/bg.jpg?v=20230201012555') }}">
     <table width="881" border="0" align="center" cellpadding="0" cellspacing="0">
         <tr> 
           <td valign="top"><table width="881" border="0" cellspacing="0" cellpadding="0">
               <tr> 
-                <td height="110" valign="top" background="{{ asset('website/images/banner-main.jpg') }}"> 
+                <td height="110" valign="top" background="{{ asset('website/images/banner-main.jpg?v=20230201012555') }}"> 
                   <table width="881" border="0" cellspacing="0" cellpadding="0">
                     <tr> 
                       <td><table width="881" height="76" border="0" cellpadding="0" cellspacing="0">
@@ -33,17 +33,17 @@
                             <td width="415">
                             <table width="381" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" style="border-collapse: collapse">
                                 <tr> 
-                                  <td bgcolor="#833664" >
-                                    <marquee   scrollamount="3" width="376" height="14"><span id="ctl00_Header1_lblMarquee1" class="MarqueeText">myplaywin4.com and myplaywin4.net are only official websites of Playwin Group, we are not responsible for game results outside from myplaywin4.com, myplaywin4.net....... KING4 Sunday Jackpot a new Game Every Sunday, play and win more!........"Khelo India Khelo".</span></marquee></td>
+                                  <td bgcolor="#6a3eb9" >
+                                    <marquee   scrollamount="3" width="376" height="14"><span id="ctl00_Header1_lblMarquee1" class="MarqueeText">Superwin3.com</span></marquee></td>
                                 </tr>
                               </table>
                                     
                               </td>
-                            <td width="80"><a href="{{ url('/') }}"><img src="{{ asset('website/images/playwin.png') }}" width="80" height="80" border=0></a></td>
+                            <td width="80"><a href="{{ url('/') }}"><img src="{{ asset('website/images/playwin.png?v=20230201012555') }}" width="80" height="80" border=0></a></td>
                             <td width="378" valign="bottom">
                                 <table width="378" border="0" cellspacing="0" cellpadding="0">
                                     <tr> 
-                                      <td><img src="{{ asset('website/images/khelo-india-khelo.gif') }}" width="376" height="36"></td>
+                                      <td><img src="{{ asset('website/images/khelo-india-khelo.jpg?v=20230201012555') }}" width="376" height="36"></td>
                                     </tr>
                                     <tr> 
                                       <td></td> 
@@ -72,7 +72,7 @@
                   </table></td>
               </tr>
               <tr> 
-                <td valign="top" background="{{ asset('website/images/v-bg.jpg') }}"> </td>
+                <td valign="top" background="{{ asset('website/images/v-bg.jpg?v=20230201012555') }}"> </td>
               </tr>
             </table></td>
         </tr>
@@ -82,29 +82,29 @@
 
 <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr> 
-    <td valign="top" background="{{ asset('website/images/bg.gif') }}">
+    <td valign="top" background="{{ asset('website/images/bg.jpg?v=20230201012555') }}">
     <table width="881" border="0" align="center" cellpadding="0" cellspacing="0">
         <tr> 
           <td valign="top">
           <table width="881" border="0" cellspacing="0" cellpadding="0">
               <tr> 
-                <td valign="top" background="{{ asset('website/images/v-bg.jpg') }}"> 
+                <td valign="top" background="{{ asset('website/images/v-bg.jpg?v=20230201012555') }}"> 
                 
                   <table width="859" border="0" align="center" cellpadding="0" cellspacing="0">
                     <tr> 
                       <td valign="top">
                           <table width="100%" border="0" align="right" cellpadding="0" cellspacing="0" bordercolor="#8D45A8" style="border-collapse: collapse">
                               <tr> 
-                                <td bgcolor="#AA819F" width="100%">
+                                <td bgcolor="#6a3eb9" width="100%">
                                 
                                 
 
-<table width="874" border="0" cellpadding="0" cellspacing="0" background="{{ asset('website/images/v-bg.jpg') }}">
+<table width="874" border="0" cellpadding="0" cellspacing="0" background="{{ asset('website/images/v-bg.jpg?v=20230201012555') }}">
                     <tr> 
                       <td height="45" valign="top" width="872">
                         <table width="870" border="0" align="center" cellpadding="0" cellspacing="0" height="388">
                           <tr>
-                            <td height="388" valign="top" background="{{ asset('website/images/index-bg1.jpg') }}"> 
+                            <td height="388" valign="top" background="{{ asset('website/images/index-bg1.jpg?v=20230201012555') }}"> 
                               <div align="center">
                                 <table width="870" border="0" cellspacing="0" cellpadding="0" height="178">
                                   <tr> 
@@ -113,7 +113,7 @@
                                           <td height="459">
                                           <table width="293" border="0" cellspacing="0" cellpadding="0" height="433">
                                               <tr> 
-                                                <td height="433" background="{{ asset('website/images/index-winning-number.jpg') }}" width="307">
+                                                <td height="433" background="{{ asset('website/images/index-winning-number.jpg?v=20230201012555') }}" width="307">
                                                     <table width="299" border="0" align="center" cellpadding="0" cellspacing="0" height="9">
                                                       <tr> 
                                                         <td height="22" width="8"></td>
@@ -136,7 +136,7 @@
                                                       <tr>
                                                         <td align="center" height="76" width="10" valign="middle">
                                                         </td>
-                                                        <td align="center" height="76" width="257" colspan="6" valign="middle"><a href="javascript:void(0)"><img src="{{ asset('website/images/3STAR-05.png') }}" width="146" height="57">
+                                                        <td align="center" height="76" width="257" colspan="6" valign="middle"><a href="javascript:void(0)"><img src="{{ asset('website/images/3STAR-05.png?v=20230201012555') }}" width="146" height="57">
                                                           </a>
                                                         </td>
                                                         <td align="center" height="76" width="9" valign="middle">
@@ -226,14 +226,14 @@
                                     <td valign="top" height="178"> 
                                     <table width="560" border="0" cellspacing="0" cellpadding="0" height="224">
                                         <tr> 
-                                          <td width="537" height="272" valign="middle" align="left">&nbsp;<img src="{{ asset('website/images/dailly-games-index.jpg') }}" width="159" height="44">
+                                          <td width="537" height="272" valign="middle" align="left">&nbsp;<img src="{{ asset('website/images/dailly-games-index.jpg?v=20230201012555') }}" width="159" height="44">
                                               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
                                               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
                                               <strong><span style="font-size: 16pt; color: #ffffff"></span></strong><table width="560"  border="0" cellspacing="0" cellpadding="0" height="44">
       <tr align="left" valign="top">
         <td class = "bold-index" height="324" style="width: 219px" rowspan="3">    
 
-         <table border="0" cellspacing="0" cellpadding="0" height="224" style="width: 308px; background-image: url('images/index-all.jpg')">
+         <table border="0" cellspacing="0" cellpadding="0" height="224" style="width: 308px; background-image: url('images/index-all.jpg?v=20230201012555')">
    <tr> 
     <td height="272" valign="middle" align="left" style="width: 477px"><table  border="0" cellspacing="0" cellpadding="0" height="74" style="width: 305px">
       <tr align="left" valign="top">
@@ -262,7 +262,7 @@
       <tr>
         <td height="63" width="16">    
         </td>
-        <td height="63" width="123" valign="top" colspan="7"><a href="{{ route('draw-lucky3') }}" target="_blank"><img border="0" src="{{ asset('website/images/3STAR-07.png') }}" width="137" height="56">    
+        <td height="63" width="123" valign="top" colspan="7"><a href="{{ route('draw-lucky3') }}" target="_blank"><img border="0" src="{{ asset('website/images/3STAR-07.png?v=20230201012555') }}" width="137" height="56">    
           </a>    
         </td>
         <td height="63" valign="top" style="width: 205px">    
@@ -324,7 +324,7 @@
       <tr>
         <td height="63" width="16">    
         </td>
-        <td height="63" width="123" valign="top" colspan="7"><a href="{{ route('draw-lucky3-plus') }}" target="_blank"><img border="0" src="{{ asset('website/images/3STAR-03.png') }}" width="137" height="56">
+        <td height="63" width="123" valign="top" colspan="7"><a href="{{ route('draw-lucky3-plus') }}" target="_blank"><img border="0" src="{{ asset('website/images/3STAR-03.png?v=20230201012555') }}" width="137" height="56">
           </a>
         </td>
         <td height="63" valign="top" style="width: 205px">    
@@ -381,7 +381,7 @@
       <tr>
         <td height="63" width="16">    
         </td>
-        <td height="63" width="123" valign="top" colspan="7"><a href="{{ route('draw-max3-plus') }}" target="_blank"><img border="0" src="{{ asset('website/images/3STAR-06.png') }}" width="137" height="56">    
+        <td height="63" width="123" valign="top" colspan="7"><a href="{{ route('draw-max3-plus') }}" target="_blank"><img border="0" src="{{ asset('website/images/3STAR-06.png?v=20230201012555') }}" width="137" height="56">    
           </a>    
         </td>
         <td height="63" valign="top" style="width: 205px">    
@@ -419,7 +419,7 @@
 
         <td class = "bold-index" width="303" valign="top" align="left" style="height: 194px">
 
-           <table border="0" cellspacing="0" cellpadding="0" height="72" style="background-image: url('images/index-ttbg.JPG')" width="258">
+           <table border="0" cellspacing="0" cellpadding="0" height="72" style="background-image: url('images/index-ttbg.jpg?v=20230201012555')" width="258">
       <tr> 
         <td height="120" valign="middle" align="left" width="301" background="{{ asset('website/images/panelBG.gif') }}"><table  border="0" cellspacing="0" cellpadding="0" height="71" width="255">
       <tr>
@@ -434,7 +434,7 @@
       <tr>
         <td height="63" width="13">    
         </td>
-        <td height="63" width="154" valign="top" colspan="9"><a href="javascript:void(0)"><img border="0" src="{{ asset('website/images/3STAR-01.png') }}" width="137" height="56">
+        <td height="63" width="154" valign="top" colspan="9"><a href="javascript:void(0)"><img border="0" src="{{ asset('website/images/3STAR-01.png?v=20230201012555') }}" width="137" height="56">
           </a>
         </td>
         <td height="63" valign="top" width="78">    
@@ -489,7 +489,7 @@
             <br />
         
             
-                                      <table border="0" cellspacing="0" cellpadding="0" height="72" style="background-image: url('images/ttplusbk.JPG')" width="258">
+                                      <table border="0" cellspacing="0" cellpadding="0" height="72" style="background-image: url('images/ttplusbk.jpg?v=20230201012555')" width="258">
       <tr> 
         <td height="120" valign="middle" align="left" width="301" background={{ asset('website/"images/panelBG.gif') }}"><table  border="0" cellspacing="0" cellpadding="0" height="71" width="255">
       <tr>
@@ -504,7 +504,7 @@
       <tr>
         <td height="63" width="13">    
         </td>
-        <td height="63" width="155" valign="top" colspan="9"><a href="javascript:void(0)"><img border="0" src="{{ asset('website/images/3STAR-04.png') }}" width="137" height="56">
+        <td height="63" width="155" valign="top" colspan="9"><a href="javascript:void(0)"><img border="0" src="{{ asset('website/images/3STAR-04.png?v=20230201012555') }}" width="137" height="56">
           </a>
         </td>
         <td height="63" valign="top" width="77">    
@@ -610,13 +610,13 @@
 
 <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr> 
-    <td valign="top" background="{{ asset('website/images/bg.gif') }}">
+    <td valign="top" background="{{ asset('website/images/bg.jpg?v=20230201012555') }}">
     <table width="881" border="0" align="center" cellpadding="0" cellspacing="0">
         <tr> 
           <td valign="top">
           <table width="881" border="0" cellspacing="0" cellpadding="0">
               <tr> 
-                <td background="{{ asset('website/images/banner-footer.jpg') }}">
+                <td background="{{ asset('website/images/banner-footer.jpg?v=20230201012555') }}">
                 <table width="881" border="0" cellspacing="0" cellpadding="0">
                     <tr> 
                       <td valign="top"> 
@@ -640,7 +640,7 @@
 							<td width="250" height="80" class="link" align="center" >
 
 								<a href="javascript:void(0)">
-									<img src="{{ asset('website/images/andriod.png') }}" alt="waiting..." width="220" height="70">
+									<img src="{{ asset('website/images/andriod.png?v=20230201012555') }}" alt="waiting..." width="220" height="70">
          						</a>
 
                             </td> 
@@ -654,7 +654,7 @@
 </table></td>
                     </tr>
                     <tr> 
-                      <td height="20" valign="middle" background="{{ asset('website/images/footer-bg.jpg') }}"> 
+                      <td height="20" valign="middle" background="{{ asset('website/images/footer-bg.jpg?v=20230201012555') }}"> 
 					<div align="center">
 							<span class="footer">© {{ date('Y') }} Pan India Network Infravest P.Ltd.</span>
 						</div>

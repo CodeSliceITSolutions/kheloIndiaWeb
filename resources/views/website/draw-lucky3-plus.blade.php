@@ -33,18 +33,18 @@ document.getElementById ('prebackform').className ='displayyes';
         <div style="width: 1345; height: 507">
             <table border="0" align="center" cellpadding="0" cellspacing="0" class="bg_wht" width="983" height="1192">
                 <tr align="left" valign="top">
-                    <td width="53" class="spacer" height="1205" style="background-image: url('images/bg.gif')"></td>
-                    <td width="930" class="spacer" height="1205" style="background-image: url('images/bg.gif')">
+                    <td width="53" class="spacer" height="1205" style="background-image: url('images/bg.jpg?v=20230201012555')"></td>
+                    <td width="930" class="spacer" height="1205" style="background-image: url('images/bg.jpg?v=20230201012555')">
                         <img src="{{ asset('website/images/spacer.gif') }}" width="1" height="1">
 
 <table width="881" border="0" cellpadding="0" cellspacing="0" height="1119">
       <tr align="left" valign="top">
-        <td width="879" align="left" colspan="2" height="203" bgcolor="#AA819F">
+        <td width="879" align="left" colspan="2" height="203" bgcolor="#6a3eb9">
         
     <div valign="top" style="z-index: 103; width: 859; top: 0px; height: 206">
                     <table border="0" cellpadding="0" cellspacing="0" valign="top" style="left: 50px; top: 0px" height="181" width="868">
                         <tr>
-                            <td background="{{ asset('website/images/banner-main.jpg') }}" height="109" valign="top" width="887">
+                            <td background="{{ asset('website/images/banner-main.jpg?v=20230201012555') }}" height="109" valign="top" width="887">
                                 <table border="0" cellpadding="0" cellspacing="0" width="871">
                                     <tr>
                                         <td width="884">
@@ -54,24 +54,21 @@ document.getElementById ('prebackform').className ='displayyes';
                                                         <br />
                                                         <table align="center" border="1" bordercolor="#ffffff" cellpadding="0" cellspacing="0"
                                                             style="border-collapse: collapse" width="345">
-                                                            <tr>
-                                                                <td bgcolor="#833664" width="568">
-                                                                    <marquee height="14" scrollamount="3" width="376">
-                                                                        <span id="ctl00_Header1_lblMarquee1" class="MarqueeText">Friday Easy Lotto Jackpot of
-                                                                            Rs. 1.29 crores was hit in Mumbai on 5th Oct 07 ........"Khelo India Khelo".</span></marquee>
-                                                                </td>
-                                                            </tr>
+                                                            <tr> 
+                                  <td bgcolor="#6a3eb9" >
+                                    <marquee   scrollamount="3" width="376" height="14"><span id="ctl00_Header1_lblMarquee1" class="MarqueeText">Superwin3.com</span></marquee></td>
+                                </tr>
                                                         </table>
-                                                        &nbsp; &nbsp;<img border="0" src="{{ asset('website/Images/how2play.jpg') }}" />
+                                                        &nbsp; &nbsp;<img border="0" src="{{ asset('website/Images/how2play.jpg?v=20230201012555') }}" />
                                                     </td>
                                                     <td width="80">
                                                         <a href="{{ url('') }}">
-                                                            <img border="0" height="80" src="{{ asset('website/images/playwin.png') }}" width="80" /></a></td>
+                                                            <img border="0" height="80" src="{{ asset('website/images/playwin.png?v=20230201012555') }}" width="80" /></a></td>
                                                     <td valign="bottom" width="378">
                                                         <table border="0" cellpadding="0" cellspacing="0" width="374">
                                                             <tr>
                                                                 <td width="376">
-                                                                    <img height="36" src="{{ asset('website/images/khelo-india-khelo.gif') }}" width="376" /></td>
+                                                                    <img height="36" src="{{ asset('website/images/khelo-india-khelo.jpg?v=20230201012555') }}" width="376" /></td>
                                                             </tr>
                                                             <tr>
                                                                 <td width="376">
@@ -134,11 +131,11 @@ document.getElementById ('prebackform').className ='displayyes';
                             </td>
                         </tr>
                         <tr>
-                            <td background="{{ asset('website/images/v-bg.jpg') }}" valign="top" height="72" width="887">
+                            <td background="{{ asset('website/images/v-bg.jpg?v=20230201012555') }}" valign="top" height="72" width="887">
                                 <table border="0" cellpadding="0" cellspacing="0" height="1" width="851">
                                     <tr>
                                         <td height="60" valign="top" width="169">
-                                            <img src="{{ asset('website/images/my-account1.gif') }}" style="height: 63px" width="169" /></td>
+                                            <img src="{{ asset('website/images/my-account1.jpg?v=20230201012555') }}" style="height: 63px" width="169" /></td>
                                         <td background="{{ asset('website/images/my-account-bg1.gif') }}" height="14" valign="middle" width="679">
                                             <table border="0" cellpadding="0" cellspacing="0" height="48" width="675">
                                                 <tr>
@@ -193,15 +190,15 @@ document.getElementById ('prebackform').className ='displayyes';
         </td>
       </tr>
       <tr align="left" valign="top">
-        <td height="110" bgcolor="#AA819F" width="14"></td>
-        <td align="left" valign="top" height="110" bgcolor="#AA819F" width="873" >
+        <td height="110" bgcolor="#6a3eb9" width="14"></td>
+        <td align="left" valign="top" height="110" bgcolor="#6a3eb9" width="873" >
         <table width="854"  border="0" cellspacing="0" cellpadding="0" height="27">
           <tr>
-            <td align="left" valign="top" height="3" bgcolor="#AA819F" width="556">&nbsp;</td>
-            <td align="left" valign="top" height="3" bgcolor="#AA819F" style="width: 295px">&nbsp;</td>
+            <td align="left" valign="top" height="3" bgcolor="#6a3eb9" width="556">&nbsp;</td>
+            <td align="left" valign="top" height="3" bgcolor="#6a3eb9" style="width: 295px">&nbsp;</td>
           </tr>
           <tr>
-            <td height="54" bgcolor="#AA819F" width="556">
+            <td height="54" bgcolor="#6a3eb9" width="556">
              <table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_FormDrawdate" style="width: 556px">
 	<tr>
 		<td colspan="2" style="height: 15px; width: 31px;">
@@ -218,19 +215,19 @@ document.getElementById ('prebackform').className ='displayyes';
                     &nbsp;&nbsp; NA
                 @endif
             </font></span></strong></td>
-            <td rowspan="2" align="center" valign="top" height="49" bgcolor="#AA819F" style="width: 295px">
+            <td rowspan="2" align="center" valign="top" height="49" bgcolor="#6a3eb9" style="width: 295px">
                 &nbsp; &nbsp; &nbsp; 
-                <img src="{{ asset('website/images/3STAR-03.png') }}" width="137" height="56"></td>
+                <img src="{{ asset('website/images/3STAR-03.png?v=20230201012555') }}" width="137" height="56"></td>
           </tr>
-          <tr><td class='spacer' height="1" bgcolor="#AA819F" width="556"></td></tr>          
+          <tr><td class='spacer' height="1" bgcolor="#6a3eb9" width="556"></td></tr>          
           </table>
             </td>
       </tr>      
       <tr>
 
-        <td bgcolor="#AA819F" width="14" height="806"></td>
+        <td bgcolor="#6a3eb9" width="14" height="806"></td>
 
-        <td align="left" valign="top" bgcolor="#aa819f" width="873" height="806">
+        <td align="left" valign="top" bgcolor="#6a3eb9" width="873" height="806">
             <table id="mainfrm" cellspacing="1" cellpadding="0" border="0" height="796" width="852">
 	<tr>
 
@@ -285,7 +282,7 @@ document.getElementById ('prebackform').className ='displayyes';
 					 
             </table>
 
-<div id="prebackform"     style="z-index: 102; left: 255px; width: 850px; top: 350px; height: 756px; position: absolute; background-color: #aa819f;">
+<div id="prebackform"     style="z-index: 102; left: 255px; width: 850px; top: 350px; height: 756px; position: absolute; background-color: #6a3eb9;">
 <div id="previousresults" style="z-index: 101; left: 143px; width: 558px; top: 3px; height: 192px; position: absolute">
 
 <table border="1" bordercolor="black" cellpadding="0" cellspacing="0" style="border-collapse: collapse; left: 110px" width="95%" height="178">
@@ -2693,7 +2690,7 @@ document.getElementById ('prebackform').className ='displayyes';
                 <td style="left: 50px" valign="top" width="884">
                     <table border="0" cellpadding="0" cellspacing="0" width="884">
                         <tr>
-                            <td background="{{ asset('website/images/banner-footer.jpg') }}" width="882">
+                            <td background="{{ asset('website/images/banner-footer.jpg?v=20230201012555') }}" width="882">
                                 <table border="0" cellpadding="0" cellspacing="0" width="883">
                                     <tr>
                                         <td valign="top" width="881">
@@ -2734,7 +2731,7 @@ document.getElementById ('prebackform').className ='displayyes';
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td background="{{ asset('website/images/footer-bg.jpg') }}" height="20" valign="middle" width="881">
+                                        <td background="{{ asset('website/images/footer-bg.jpg?v=20230201012555') }}" height="20" valign="middle" width="881">
                                             <div align="center" class="link">
                                             </div>
                                         </td>
