@@ -113,7 +113,7 @@
                                           <td height="459">
                                           <table width="293" border="0" cellspacing="0" cellpadding="0" height="433">
                                               <tr> 
-                                                <td height="433" background="{{ asset('website/images/index-winning-number.jpg?v=20230201012555') }}" width="307">
+                                                <td height="433" style="background-size: cover;" background="{{ asset('website/images/index-winning-number.jpg?v=20230201012555') }}" width="307">
                                                     <table width="299" border="0" align="center" cellpadding="0" cellspacing="0" height="9">
                                                       <tr> 
                                                         <td height="22" width="8"></td>
@@ -204,7 +204,7 @@
                                                         <td align="center" height="13" width="279" colspan="8"><img border="0" src="{{ asset('website/images/spacer.gif') }}"></td>
                                                       </tr>
                                                       <tr>
-                                                        <td align="center" height="14" width="273" colspan="8" style="line-height: 100%" valign="bottom"><b><font size="3" color="#FF9900">Next
+                                                        <td align="center" height="14" width="273" colspan="8" style="line-height: 100%" valign="bottom"><b><font size="3" color="#ffffff">Next
                                                           Draw :</font></b></td>
                                                       </tr>
                                                       <tr>
