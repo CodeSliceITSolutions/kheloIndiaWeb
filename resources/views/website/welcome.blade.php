@@ -239,24 +239,24 @@
       <tr align="left" valign="top">
         <td width="16" style="height: 28px">    
         </td>
-        <td class = "bold-index" width="244" colspan="8" valign="middle" style="height: 28px">UP Daily</td>
-        <td class = "bold-index" width="244" colspan="8" valign="middle" style="height: 28px">    
-@if (isset($LuckyThreeLastResult))
-    {{ date('d M Y', strtotime($LuckyThreeLastResult->draw_date)) }} {{ date('H:i:s', strtotime($LuckyThreeLastResult->draw_time)) }}
-@endif
+        <td class = "bold-index" width="244" colspan="8" valign="middle" style="height: 28px">
+          UP Daily
+          @if (isset($LuckyThreeLastResult))
+              <br />{{ date('d M Y', strtotime($LuckyThreeLastResult->draw_date)) }} {{ date('H:i:s', strtotime($LuckyThreeLastResult->draw_time)) }}
+          @endif
 
-@php
-  $luckyThree1 = "";
-  $luckyThree2 = "";
-  $luckyThree3 = "";
-  if (isset($LuckyThreeLastResult)) {
-    $luckyThreeArry = str_split($LuckyThreeLastResult->draw_result);
-    $luckyThreeArryCount = count($luckyThreeArry);
-    $luckyThree1 = $luckyThreeArry[$luckyThreeArryCount-3];
-    $luckyThree2 = $luckyThreeArry[$luckyThreeArryCount-2];
-    $luckyThree3 = $luckyThreeArry[$luckyThreeArryCount-1];
-  }    
-@endphp
+          @php
+            $luckyThree1 = "";
+            $luckyThree2 = "";
+            $luckyThree3 = "";
+            if (isset($LuckyThreeLastResult)) {
+              $luckyThreeArry = str_split($LuckyThreeLastResult->draw_result);
+              $luckyThreeArryCount = count($luckyThreeArry);
+              $luckyThree1 = $luckyThreeArry[$luckyThreeArryCount-3];
+              $luckyThree2 = $luckyThreeArry[$luckyThreeArryCount-2];
+              $luckyThree3 = $luckyThreeArry[$luckyThreeArryCount-1];
+            }    
+          @endphp
         </td>
       </tr>
       <tr>
@@ -292,14 +292,16 @@
         </td>
       </tr>
       <tr>
+          <td height="28" width="16"></td>
+      </tr>
+      <tr>
         <td height="1" width="17" align="center">    
          <b><span style="font-size: 8.5pt; font-family: Tahoma"><font color="#FFFFFF">&nbsp;</font></span></b>    
         </td>
-        <td class = "bold-index" width="244" colspan="8" valign="middle" style="height: 28px">GA Daily</td>
-        <td class = "bold-index" height="28" width="233" colspan="8" valign="middle">
-
+        <td class = "bold-index" width="244" colspan="8" valign="middle" style="height: 28px">
+          GA Daily
           @if (isset($LuckyThreePlusLastResult))
-              {{ date('d M Y', strtotime($LuckyThreePlusLastResult->draw_date)) }} {{ date('H:i:s', strtotime($LuckyThreePlusLastResult->draw_time)) }}
+              <br />{{ date('d M Y', strtotime($LuckyThreePlusLastResult->draw_date)) }} {{ date('H:i:s', strtotime($LuckyThreePlusLastResult->draw_time)) }}
           @endif
 
           @php
@@ -314,7 +316,6 @@
               $luckyThreePlus3 = $luckyThreePlusArry[$luckyThreePlusArryCount-1];
             }    
           @endphp
-
         </td>
       </tr>
       <tr>
@@ -354,13 +355,15 @@
         </td>
       </tr>
       <tr>
+          <td height="28" width="16"></td>
+      </tr>
+      <tr>
         <td height="28" width="16">    
         </td>
-        <td class = "bold-index" width="244" colspan="8" valign="middle" style="height: 28px">Nation Daily</td>
-        <td class = "bold-index" height="28" width="244" colspan="8" valign="middle">    
-
+        <td class = "bold-index" width="244" colspan="8" valign="middle" style="height: 28px">
+          Nation Daily
           @if (isset($MaxThreePlusLastResult))
-              {{ date('d M Y', strtotime($MaxThreePlusLastResult->draw_date)) }} {{ date('H:i:s', strtotime($MaxThreePlusLastResult->draw_time)) }}
+              <br />{{ date('d M Y', strtotime($MaxThreePlusLastResult->draw_date)) }} {{ date('H:i:s', strtotime($MaxThreePlusLastResult->draw_time)) }}
           @endif
 
           @php
@@ -375,7 +378,6 @@
               $maxThreePlus3 = $maxThreePlusArry[$maxThreePlusArryCount-1];
             }    
           @endphp
-
         </td>
       </tr>
       <tr>
