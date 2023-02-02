@@ -2,10 +2,10 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <title>&nbsp;--::&nbsp;&nbsp;Welcome to Playwin&nbsp;&nbsp;--&nbsp;&nbsp;Khelo India Khelo&nbsp;&nbsp;::--&nbsp;&nbsp;&nbsp;&nbsp;</title>
-    <meta name="description" content="Indian Online Lottery Result Services. www.superwin3.com Games Lucky3, Lucky3+, Max3+ only in 4 States of India. Maharashtra, Nagaland, Karnataka, Sikkim." />
+    <title>Superwin3.com</title>
+    <meta name="description" content="Indian Online Lottery Result Services. www.superwin3.com Games Lucky3, Lucky3+, Max3+ only in 4 States of India. Uttar Pradesh, Goa, Sikkim Nation Wide." />
     <meta name="keywords" content="India, Lottery Games, Lucky3, Lucky3+, Lucky3plus, Max3plus, Max3+, myplaywin, superwin3, playwin, indian lotto, Max3+, Max3plus" />
-    <link rel="shortcut icon" href="{{ asset('website/images/favicon.ico') }}" >
+    <link rel="shortcut icon" href="{{ asset('website/images/playwin.png?v=20230201012555') }}" >
     <link href="{{ asset('website/CSS/MyPlaywin.css') }}" rel="stylesheet" type="text/css" />
     <link href="{{ asset('website/CSS/playwin.css') }}" rel="stylesheet" type="text/css" />
     <script language="javascript" src="{{ asset('website/JSScript/JSScript.js') }}"></script>
@@ -560,7 +560,7 @@
 		</iframe>
             <br />
             <br />
-            Maharashtra, Nagaland, Karnataka, Sikkim
+            Uttar Pradesh, Goa, Sikkim Nation Wide
 			<br />
 									
 			</td>
